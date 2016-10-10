@@ -1,0 +1,9 @@
+*.local
+*.res
+*.identcache
+*.dsk
+*.tvsconfig
+*.stat
+firebird
+Win32/
+Win64/
